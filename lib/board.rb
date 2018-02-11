@@ -9,5 +9,5 @@ num_positions = 9
 num_positions.times { board << " " }
 
 # helpful links 
-https://stackoverflow.com/questions/5678227/how-can-i-run-a-command-five-times-using-ruby
-https://stackoverflow.com/questions/5678227/how-can-i-run-a-command-five-times-using-ruby
+# https://stackoverflow.com/questions/5678227/how-can-i-run-a-command-five-times-using-ruby
+# https://stackoverflow.com/questions/5678227/how-can-i-run-a-command-five-times-using-ruby
