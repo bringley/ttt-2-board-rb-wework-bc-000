@@ -5,4 +5,4 @@ board = []
 num_positions = 9
 
 #I know I can do something n times using the n.times method
-num_positions.times 
+num_positions.times {}
